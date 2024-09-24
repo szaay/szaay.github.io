@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://szaay.github.io/Ubb/sitemap.Ubb.gz
